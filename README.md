@@ -3,5 +3,5 @@
 
  - Project 1: Random Graphs and Random Walks (98/100)
  - Project 2: Social Network Mining (100/100)
- - Project 3: Reinforcement Learning and Inverse Reinforcement Learning (375/400)
- - Project 4: Graph Algorithms (/220)
+ - Project 3: Reinforcement Learning and Inverse Reinforcement Learning (385/400)
+ - Project 4: Graph Algorithms (192/215)
